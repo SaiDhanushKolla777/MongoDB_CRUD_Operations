@@ -5,8 +5,8 @@ MongoDB is a popular NoSQL database that is widely used in modern web applicatio
 CRUD operations are the most basic operations that you can perform on a database. In MongoDB, CRUD operations refer to the following operations: Create, Read, Update, and Delete. Let's go through each operation and see how you can perform it with Spring Boot.
 
 # Project Structure.
+![0](https://github.com/SaiDhanushKolla777/MongoDB_CRUD_Operations/assets/135599633/b97d32bb-6200-4601-99d3-b987ca191e9f)
 
-![test](https://github.com/rock-man-ctrl/mongodb_curd_operations/blob/main/screenshots/0.PNG?raw=true)
 # Creating server objects
 
 Request Method – POST
