@@ -52,13 +52,18 @@ public ResponseEntity<Server> getServerById(@PathVariable(value = "id") Long ser
 ```
 
 # Get all server objects at once
-![2](https://github.com/rock-man-ctrl/mongodb_curd_operations/blob/main/screenshots/2.png?raw=true)
+![2](https://github.com/SaiDhanushKolla777/MongoDB_CRUD_Operations/assets/135599633/771d0c02-8b17-4b48-80e5-3834c6aea2e4)
+
 
 # Get server object by id
-![2](https://github.com/rock-man-ctrl/mongodb_curd_operations/blob/main/screenshots/5.PNG?raw=true)
+![5 (1)](https://github.com/SaiDhanushKolla777/MongoDB_CRUD_Operations/assets/135599633/f35e7a7d-01ab-4b8e-b480-4d08a6c9812e)
+
+
 
 # Server object not found
-![2](https://github.com/rock-man-ctrl/mongodb_curd_operations/blob/main/screenshots/6.PNG?raw=true)
+![6 (1)](https://github.com/SaiDhanushKolla777/MongoDB_CRUD_Operations/assets/135599633/02432715-1839-4b3c-bc09-2d49abc7f6a7)
+
+
 
 
 
@@ -89,7 +94,9 @@ The parameters of the server object can be altered by passing the values.
 
 ```
 
-![2](https://github.com/rock-man-ctrl/mongodb_curd_operations/blob/main/screenshots/3.png?raw=true)
+![3 (1)](https://github.com/SaiDhanushKolla777/MongoDB_CRUD_Operations/assets/135599633/c2dae950-d7e5-43b2-a7de-ff64659bea46)
+
+
 
 
 # Deleting server object
@@ -116,7 +123,9 @@ public Map<String, Boolean> deleteEmployee(@PathVariable(value = "id") Long serv
 
 ```
 
-![2](https://github.com/rock-man-ctrl/mongodb_curd_operations/blob/main/screenshots/4.png?raw=true)
+
+![4 (1)](https://github.com/SaiDhanushKolla777/MongoDB_CRUD_Operations/assets/135599633/9d074056-93e4-4293-a79f-0b311c38f9b9)
+
 
 # Conclusion
 
