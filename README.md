@@ -22,7 +22,7 @@ Data is passed in json format to create a server object.
 
 ```
 
-![2](https://github.com/rock-man-ctrl/mongodb_curd_operations/blob/main/screenshots/1.png?raw=true)
+![2](https://github.com/SaiDhanushKolla777/MongoDB_CRUD_Operations/assets/135599633/a09f5bcf-2285-495e-83fa-7ee310de12c5)
 
 # Get all server objects
 
